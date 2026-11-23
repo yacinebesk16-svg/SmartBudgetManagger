@@ -1,2 +1,2 @@
 # SmartBudgetManagger
- A project for managing Budget
+ A project for managing Budget for all types of humman
